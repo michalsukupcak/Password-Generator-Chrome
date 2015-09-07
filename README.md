@@ -1,5 +1,7 @@
-# Password-Generator
+# Password-Generator-Chrome
 
-My first Polymer application. Uses alias + secret string combination to generate unique and strong passwords.
+Chrome extension version of Password Generator web application.
 
-> **Live version:** [https://password-generator.webapp.sk](https://password-generator.webapp.sk)
+> **Download from Chrome Web Store:** https://chrome.google.com/webstore/detail/password-generator/khhhgiocpaeaepoedjkcmhhaaoibnncg
+> **Original webapp:** https://password-generator.webapp.sk
+> **Git repository for webapp:** https://github.com/michalsukupcak/Password-Generator
