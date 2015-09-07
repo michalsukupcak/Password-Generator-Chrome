@@ -1,9 +1,10 @@
 # Password-Generator-Chrome
 
-Chrome extension version of Password Generator web application.
+*Chrome extension version of Password Generator web application.*
 
-> **Download from Chrome Web Store:** https://chrome.google.com/webstore/detail/password-generator/khhhgiocpaeaepoedjkcmhhaaoibnncg
+Download the extension from Chrome Web Store: https://chrome.google.com/webstore/detail/password-generator/khhhgiocpaeaepoedjkcmhhaaoibnncg
 
-> **Original webapp:** http://password-generator.webapp.sk
+## About
 
-> **Git repository for webapp:** https://github.com/michalsukupcak/Password-Generator
+You can find more information about Password Generator here:
+> https://github.com/michalsukupcak/Password-Generator
