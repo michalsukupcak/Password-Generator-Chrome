@@ -1,4 +1,6 @@
-.idea/*
-bower_components/*
-build/*
-node_modules/*
+node_modules
+dist
+bower_components
+.idea
+.tmp
+.publish/

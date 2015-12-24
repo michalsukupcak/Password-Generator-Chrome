@@ -1,0 +1,18 @@
+html {
+    height: 520px;
+    width: 380px;
+}
+
+body {
+    background: #F2F2F2;
+    color: #333;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    height: 520px;
+    width: 380px;
+}
+
+.paper-dialog-scrollable {
+    max-width: 100% !important;
+    min-height: 250px;
+}
