@@ -85,4 +85,11 @@
         }
     };
 
+    // Focus alias input when app is loaded (wait a bit for UI load)
+    app.addEventListener('dom-change', function () {
+        this.async(function () {
+            this.$.alias.$.input.focus();
+        });
+    });
+
 })(document);
