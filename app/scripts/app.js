@@ -54,6 +54,7 @@
                 this.$.secretStorage.save();
             }
             if (this.clipboard === true) {
+                this.copy();
                 this.$.clipboard.click();
             }
             this.section = 'result';
@@ -87,6 +88,7 @@
 
     // Focus alias input when app is loaded (wait a bit for UI load)
     app.addEventListener('dom-change', function () {
+        //this.$.alias.$.input.focus();
         this.async(function () {
             this.$.alias.$.input.focus();
         });
